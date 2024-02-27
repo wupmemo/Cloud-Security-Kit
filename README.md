@@ -46,18 +46,18 @@ The tools in this repository are organized into the following categories:
 
 ### Vulnerability Assessment and Management
 
-1. [Scout Suite](https://github.com/nccgroup/ScoutSuite): Scout Suite is an open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments. ![image](https://github.com/wupmemo/Cloud-Security-Kit/assets/15247512/b4a82cf4-8a8d-4c2b-b84f-766cb08269d1)
+1. [Scout Suite](https://github.com/nccgroup/ScoutSuite): Scout Suite is an open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
 
 2. [Tool Name](link/to/tool/repo): Brief description of the tool.
    ...
 
 ### Exploitation Frameworks
 
-1. [Tool Name](link/to/tool/repo): Brief description of the tool.
+1. [Rhino](https://github.com/RhinoSecurityLabs/pacu): Pacu is an open-source AWS exploitation framework for Cloud Pentesting.
 2. [Tool Name](link/to/tool/repo): Brief description of the tool.
    ...
 
-### Exploration and Situation awareness
+### Exploration and Situational Awareness
 
 1. [Situational Awareness](https://github.com/BishopFox/cloudfox): Gain situational awareness in unfamiliar cloud environments.
 2. [Tool Name](link/to/tool/repo): Brief description of the tool.
@@ -69,9 +69,9 @@ The tools in this repository are organized into the following categories:
 2. [Tool Name](link/to/tool/repo): Brief description of the tool.
    ...
 
-## Contributing
+## Resources
 
-Contributions to this repository are welcome! If you have suggestions for additional tools or improvements to the existing content, please feel free to open an issue or submit a pull request. Please see the [contribution guidelines](CONTRIBUTING.md) for more information.
+- [Rhino Labs](https://github.com/RhinoSecurityLabs)
 
 ## License
 
