@@ -17,17 +17,24 @@ With the increasing adoption of cloud services and infrastructure, it's essentia
 
 The tools in this repository are organized into the following categories:
 
+- **Recon and information gathering**: Tools for collecting information about the target before we start.
 - **Network Scanning and Enumeration**: Tools for discovering assets, services, and vulnerabilities within cloud networks.
 - **Web Application Testing**: Tools for assessing the security of web applications deployed in cloud environments.
 - **Vulnerability Assessment and Management**: Tools for identifying and managing vulnerabilities in cloud infrastructure and applications.
 - **Exploitation Frameworks**: Frameworks and tools for exploiting vulnerabilities found during penetration tests.
+- **Exploration and Situation awareness**: Tools that will help you discover the environement you are in once you are able to access/ hack your way in.
 - **Forensics and Incident Response**: Tools for investigating security incidents and performing digital forensics in cloud environments.
 
 ## Tools List
 
+### Recon and information gathering
+1. [Tool Name](link/to/tool/repo): Brief description of the tool.
+2. [Tool Name](link/to/tool/repo): Brief description of the tool.
+   ...
+
 ### Network Scanning and Enumeration
 
-1. [Tool Name](link/to/tool/repo): Brief description of the tool.
+1. [sgCheckup](https://github.com/goldfiglabs/sgCheckup): sgCheckup - Check your Security Groups for Unexpected Open Ports & Generate nmap Output.
 2. [Tool Name](link/to/tool/repo): Brief description of the tool.
    ...
 
@@ -39,7 +46,8 @@ The tools in this repository are organized into the following categories:
 
 ### Vulnerability Assessment and Management
 
-1. [Tool Name](link/to/tool/repo): Brief description of the tool.
+1. [Scout Suite](https://github.com/nccgroup/ScoutSuite): Scout Suite is an open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments. ![image](https://github.com/wupmemo/Cloud-Security-Kit/assets/15247512/b4a82cf4-8a8d-4c2b-b84f-766cb08269d1)
+
 2. [Tool Name](link/to/tool/repo): Brief description of the tool.
    ...
 
@@ -49,6 +57,12 @@ The tools in this repository are organized into the following categories:
 2. [Tool Name](link/to/tool/repo): Brief description of the tool.
    ...
 
+### Exploration and Situation awareness
+
+1. [Situational Awareness](https://github.com/BishopFox/cloudfox): Gain situational awareness in unfamiliar cloud environments.
+2. [Tool Name](link/to/tool/repo): Brief description of the tool.
+   ...
+   
 ### Forensics and Incident Response
 
 1. [Tool Name](link/to/tool/repo): Brief description of the tool.
