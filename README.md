@@ -37,6 +37,7 @@ The tools in this repository are organized into the following categories:
 1. [sgCheckup](https://github.com/goldfiglabs/sgCheckup): sgCheckup - Check your Security Groups for Unexpected Open Ports & Generate nmap Output.
 2. [Tool Name](link/to/tool/repo): Brief description of the tool.
    ...
+![image](https://github.com/wupmemo/Cloud-Security-Kit/assets/15247512/4223ebd1-9334-4d0f-abbe-44617407ff6f)
 
 ### Web Application Testing
 
