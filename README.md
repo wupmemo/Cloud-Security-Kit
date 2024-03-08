@@ -49,7 +49,7 @@ The tools in this repository are organized into the following categories:
 ### Exploration and Situational Awareness
 
 1. [CloudFox](https://github.com/BishopFox/cloudfox): Gain situational awareness in unfamiliar cloud environments.
-2. [Tool Name](link/to/tool/repo): Brief description of the tool.
+2. [MetaBadger](https://github.com/salesforce/metabadger): Discover and learn about Meta-Data on AWS before fixing and upgrading IMDS version.
    ...
 
 ### Vulnerability Assessment and Pentesting
@@ -79,7 +79,6 @@ The tools in this repository are organized into the following categories:
 
 - [Rhino Labs](https://github.com/RhinoSecurityLabs) Cloud, Application, and Network pen-testing and Attack simulation.
 - [Prowler](https://github.com/prowler-cloud/prowler) Open Source security tool to perform audits, incident response, continuous monitoring, hardening, and forensics readiness for all major cloud providers.
-
 
 
 ## License
