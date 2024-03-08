@@ -45,16 +45,13 @@ The tools in this repository are organized into the following categories:
 ### Web Application Testing
 
 1. [GoTestWaf](https://github.com/wallarm/gotestwaf): Evaluate web application security solutions, such as API security proxies, Web Application Firewalls, IPS, API gateways, and others.
-
-.
-2. [Tool Name](link/to/tool/repo): Brief description of the tool.
+3. [Tool Name](link/to/tool/repo): Brief description of the tool.
    ...
 
 ### Vulnerability Assessment and Management
 
 1. [Scout Suite](https://github.com/nccgroup/ScoutSuite): Scout Suite is an open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
-
-2. [Tool Name](link/to/tool/repo): Brief description of the tool.
+2. [CodePipeline Poisoning Tester](https://github.com/AsierRF/CodePipeline-Poisoning-Tester): Python script and an AWS serverless infrastructure that will help verify wether AWS developers could potentially perform a privilege escalation attempt to retrieve secrets and data from the CI/CD pipeline and the production environment.
    ...
 
 ### Exploitation Frameworks
