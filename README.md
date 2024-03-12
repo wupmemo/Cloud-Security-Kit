@@ -29,9 +29,10 @@ The tools in this repository are organized into the following categories:
 
 ### Recon and information gathering
 1. [KiteRunner](https://github.com/assetnote/kiterunner): Kiterunner is a tool that is capable of not only performing traditional content discovery at lightning-fast speeds but also brute-forcing routes/endpoints in modern applications.
-2. [GreyHat Warfare](http://buckets.grayhatwarfare.com/): Online tool that helps you find public S3 buckets.
-3. [AWS Bucket Dump](https://github.com/jordanpotti/AWSBucketDump): CommandLine tool that helps you enum S3 buckets.
-4. 
+2. [Katana](https://github.com/projectdiscovery/katana): Fast And fully configurable web crawling.
+3. [GreyHat Warfare](http://buckets.grayhatwarfare.com/): Online tool that helps you find public S3 buckets.
+4. [AWS Bucket Dump](https://github.com/jordanpotti/AWSBucketDump): CommandLine tool that helps you enum S3 buckets.
+5. 
    ...
 
 ### Network Scanning and Enumeration
