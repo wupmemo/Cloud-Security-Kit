@@ -47,13 +47,14 @@ The tools in this repository are organized into the following categories:
 ### Web Application Testing
 
 1. [GoTestWaf](https://github.com/wallarm/gotestwaf): Evaluate web application security solutions, such as API security proxies, Web Application Firewalls, IPS, API gateways, and others.
-3. [Tool Name](link/to/tool/repo): Brief description of the tool.
+2. [SecretFinder](https://github.com/m4ll0k/SecretFinder): SecretFinder is a python script based on LinkFinder, written to discover sensitive data like apikeys, accesstoken, authorizations, jwt,..etc in JavaScript files.
    ...
 
 ### Exploration and Situational Awareness
 
 1. [CloudFox](https://github.com/BishopFox/cloudfox): Gain situational awareness in unfamiliar cloud environments.
 2. [MetaBadger](https://github.com/salesforce/metabadger): Discover and learn about Meta-Data on AWS before fixing and upgrading IMDS version.
+3. [CloudList](https://github.com/projectdiscovery/cloudlist): Cloudlist is a multi-cloud tool for getting Assets from Cloud Providers.
    ...
 
 ### Vulnerability Assessment and Pentesting
