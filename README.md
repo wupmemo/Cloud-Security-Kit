@@ -64,7 +64,8 @@ The tools in this repository are organized into the following categories:
 3. [CodePipeline Poisoning Tester](https://github.com/AsierRF/CodePipeline-Poisoning-Tester): Python script and an AWS serverless infrastructure that will help verify whether AWS developers could potentially perform a privilege escalation attempt to retrieve secrets and data from the CI/CD pipeline and the production environment.
 4. [Git Leaks](https://github.com/gitleaks/gitleaks): Gitleaks is a SAST tool for detecting and preventing hardcoded secrets like passwords, api keys, and tokens in git repos. We can use this tool for assessment.
 5. [RHINO LABS: AWS PENTESTING TOOLS](https://github.com/RhinoSecurityLabs/Security-Research/tree/master/tools/aws-pentest-tools): A collection of AWS pentesting tools for (s3, IAM & HoneyBot).
-6. [CloudFrunt](https://github.com/MindPointGroup/cloudfrunt): A tool for identifying misconfigured CloudFront domains. 
+6. [CloudFrunt](https://github.com/MindPointGroup/cloudfrunt): A tool for identifying misconfigured CloudFront domains.
+7. [Nuclei](https://github.com/projectdiscovery/nuclei): Fast and customisable vulnerability scanner based on simple YAML based DSL.
    ...
    
 ### Exploitation && Attack
