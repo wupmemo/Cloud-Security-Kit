@@ -37,14 +37,20 @@ The tools in this repository are organized into the following categories:
 7. [S3 Recon](https://github.com/clarketm/s3recon): Amazon S3 bucket finder and crawler.
 8. [S3 Finder](https://github.com/magisterquis/s3finder): search using a wordlist or by monitoring the certstream network for domain names from certificate transparency logs.
 9. [Bucket Finder](https://github.com/mattweidner/bucket_finder): excellent ruby script that uses wordlists to recon public buckets.
-10. [S3 Open Bucket Finder](https://github.com/siddharth2395/s3-open-bucket-finder): excellent Python script that uses wordlists (common names) to recon public buckets. 
-   ...
+10. [S3 Open Bucket Finder](https://github.com/siddharth2395/s3-open-bucket-finder): excellent Python script that uses wordlists (common names) to recon public buckets.
+11. [Cloud Scrapper](https://github.com/jordanpotti/CloudScraper): Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.
+
+
+[Enum Wayback with MSF](https://github.com/mubix/stuff/blob/master/metasploit/enum_wayback.rb)
+![image](https://github.com/wupmemo/Cloud-Security-Kit/assets/15247512/ce277746-9042-4fa4-a62b-762a9bf2fa2f)
+
+    ...
 
 ### Network Scanning and Enumeration
 
 1. [sgCheckup](https://github.com/goldfiglabs/sgCheckup): sgCheckup - Check your Security Groups for Unexpected Open Ports & Generate nmap Output.
-2. [GoBuster](https://github.com/assetnote/ghostbuster): Ghostbuster iterates through all of your AWS Elastic IPs and Network Interface Public IPs and collects this data.
-3. 
+2. [Ghost Buster](https://github.com/assetnote/ghostbuster): Ghostbuster iterates through all of your AWS Elastic IPs and Network Interface Public IPs and collects this data.
+3. [Bucket Hunter](https://github.com/samuelcardillo/bucket-hunter): Amazon AWS Open Files Scraper that uses passive DNS lookup on Amazon servers to find hostname of customer hosted in the cloud.
 
 ![image](https://github.com/wupmemo/Cloud-Security-Kit/assets/15247512/4223ebd1-9334-4d0f-abbe-44617407ff6f)
    ...
@@ -61,6 +67,9 @@ The tools in this repository are organized into the following categories:
 2. [MetaBadger](https://github.com/salesforce/metabadger): Discover and learn about Meta-Data on AWS before fixing and upgrading IMDS version.
 3. [CloudList](https://github.com/projectdiscovery/cloudlist): Cloudlist is a multi-cloud tool for getting Assets from Cloud Providers.
 4. [S3 Inspector](https://github.com/clario-tech/s3-inspector): Inspect for exposed/ public AWS S3 buckets.
+5. [Bucket Hunter](https://github.com/samuelcardillo/bucket-hunter): Amazon AWS Exposed Bucket Hunter - Security research
+
+
    ...
 
 ### Vulnerability Assessment and Pentesting
@@ -83,7 +92,7 @@ The tools in this repository are organized into the following categories:
 
 ### Forensics and Incident Response
 
-1. [Tool Name](link/to/tool/repo): Brief description of the tool.
+1. [Exif Scrapper](https://github.com/downpat/exif-scraper): Grab photos from an S3 bucket and store their EXIF data in a database.
 2. [Tool Name](link/to/tool/repo): Brief description of the tool.
    ...
 
