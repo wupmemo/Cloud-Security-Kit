@@ -39,6 +39,10 @@ The tools in this repository are organized into the following categories:
 9. [Bucket Finder](https://github.com/mattweidner/bucket_finder): excellent ruby script that uses wordlists to recon public buckets.
 10. [S3 Open Bucket Finder](https://github.com/siddharth2395/s3-open-bucket-finder): excellent Python script that uses wordlists (common names) to recon public buckets.
 11. [Cloud Scrapper](https://github.com/jordanpotti/CloudScraper): Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.
+12. [Cloud Enum](https://github.com/initstring/cloud_enum): Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
+13. [Recon Ng](https://github.com/lanmaster53/recon-ng):Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from websites.
+
+
 
 
 [Enum Wayback with MSF](https://github.com/mubix/stuff/blob/master/metasploit/enum_wayback.rb)
@@ -59,6 +63,7 @@ The tools in this repository are organized into the following categories:
 
 1. [GoTestWaf](https://github.com/wallarm/gotestwaf): Evaluate web application security solutions, such as API security proxies, Web Application Firewalls, IPS, API gateways, and others.
 2. [SecretFinder](https://github.com/m4ll0k/SecretFinder): SecretFinder is a python script based on LinkFinder, written to discover sensitive data like apikeys, accesstoken, authorizations, jwt,..etc in JavaScript files.
+3. [Amass](https://github.com/owasp-amass/amass): In-depth attack surface mapping and asset discovery.
    ...
 
 ### Exploration and Situational Awareness
@@ -86,14 +91,12 @@ The tools in this repository are organized into the following categories:
 ### Exploitation && Attack
 
 1. [PACU](https://github.com/RhinoSecurityLabs/pacu): Pacu is an open-source AWS exploitation framework for Cloud Pentesting.
-2. [Tool Name](link/to/tool/repo): Brief description of the tool.
    ...
 
 
 ### Forensics and Incident Response
 
 1. [Exif Scrapper](https://github.com/downpat/exif-scraper): Grab photos from an S3 bucket and store their EXIF data in a database.
-2. [Tool Name](link/to/tool/repo): Brief description of the tool.
    ...
 
 ## Resources
