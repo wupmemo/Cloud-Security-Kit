@@ -32,7 +32,12 @@ The tools in this repository are organized into the following categories:
 2. [Katana](https://github.com/projectdiscovery/katana): Fast And fully configurable web crawling.
 3. [GreyHat Warfare](http://buckets.grayhatwarfare.com/): Online tool that helps you find public S3 buckets.
 4. [AWS Bucket Dump](https://github.com/jordanpotti/AWSBucketDump): CommandLine tool that helps you enum S3 buckets.
-5. 
+5. [Sand Caste](https://github.com/0xSearches/sandcastle): Python Script to enum S3 buckets.
+6. [Bucket Kicker](https://github.com/craighays/bucketkicker): Quickly enumerate AWS S3 buckets verify whether or not they exist and to look for loot.
+7. [S3 Recon](https://github.com/clarketm/s3recon): Amazon S3 bucket finder and crawler.
+8. [S3 Finder](https://github.com/magisterquis/s3finder): search using a wordlist or by monitoring the certstream network for domain names from certificate transparency logs.
+9. [Bucket Finder](https://github.com/mattweidner/bucket_finder): excellent ruby script that uses wordlists to recon public buckets.
+10. [S3 Open Bucket Finder](https://github.com/siddharth2395/s3-open-bucket-finder): excellent Python script that uses wordlists (common names) to recon public buckets. 
    ...
 
 ### Network Scanning and Enumeration
@@ -55,6 +60,7 @@ The tools in this repository are organized into the following categories:
 1. [CloudFox](https://github.com/BishopFox/cloudfox): Gain situational awareness in unfamiliar cloud environments.
 2. [MetaBadger](https://github.com/salesforce/metabadger): Discover and learn about Meta-Data on AWS before fixing and upgrading IMDS version.
 3. [CloudList](https://github.com/projectdiscovery/cloudlist): Cloudlist is a multi-cloud tool for getting Assets from Cloud Providers.
+4. [S3 Inspector](https://github.com/clario-tech/s3-inspector): Inspect for exposed/ public AWS S3 buckets.
    ...
 
 ### Vulnerability Assessment and Pentesting
